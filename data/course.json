@@ -63,7 +63,9 @@
     "website": "introduction-to-computational-thinking"
   },
   "learning_resource_types": [
-    "Lecture Videos"
+    "Lecture Videos",
+    "Problem Sets",
+    "Programming Assignments"
   ],
   "site_uid": "81fee806-20b5-4f46-8f62-452e4ce98829",
   "site_short_id": "18.S191-fall-2022"
