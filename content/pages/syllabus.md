@@ -32,19 +32,18 @@ Previous versions of this course, with various applications, were taught in [Fal
 
 ### Format
 
-Tuesday sessions consist of prerecorded video lectures, released on YouTube and played live on the course website. Thursday sessions consist of a half-hour prerecorded video lecture followed by a half-hour online discussion.
+**???** Tuesday sessions consist of prerecorded video lectures, released on YouTube and played live on the course website. Thursday sessions consist of a half-hour prerecorded video lecture followed by a half-hour online discussion. **???**
 
 ### Technical Requirements
 
 Students need to install the Julia programming language, as well as other tools and packages.
 
-### Problem Sets & Exams
-
-Homework consists of coding in the form of 10 problem sets, released on Thursdays and due before the following Thursday’s class. 
-
 ### Grading Policy
 
-The student’s lowest score of the 10 problem sets will be dropped. The remaining problem sets will be weighted equally.
+The final grade is 80% problem sets, and 20% interactive quick questions.
+
+- Problem sets are released on Friday and due the following Friday by 11:59pm EST. They have equal weight; your lowest score will be dropped.
+- Interactive quick questions are due before Wednesday (11:59pm), but are best done on Monday, during or right after the lectures. \[Note: Not available to OCW users\]
 
 ### Non-registered Students
 
