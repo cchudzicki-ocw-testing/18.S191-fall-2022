@@ -40,10 +40,10 @@ Students need to install the Julia programming language, as well as other tools 
 
 ### Grading Policy
 
-The final grade is 80% problem sets, and 20% interactive quick questions.
+The final grade is 80% problem sets and 20% interactive quick questions.
 
 - Problem sets are released on Friday and due the following Friday by 11:59pm EST. They have equal weight; your lowest score will be dropped.
-- Interactive quick questions are due before Wednesday (11:59pm), but are best done on Monday, during or right after the lectures. \[Note: Not available to OCW users\]
+- Interactive quick questions are due before Wednesday at 11:59pm, but are best done on Monday, during or right after the lectures. \[Note: Not available to OCW users\]
 
 ### Non-registered Students
 
