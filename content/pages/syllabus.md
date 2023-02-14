@@ -14,11 +14,13 @@ Lectures: 2 sessions / week, 1 hour / session 
 
 There are no prerequisites.
 
- 
-
 ### Course Description
 
-This is an introductory course on computational thinking. We use the [Julia](https://julialang.org/) programming language to approach real-world problems in varied areas applying data analysis and computational and mathematical modeling. In this class you will learn computer science, software, algorithms, applications, and mathematics as an integrated whole.
+Three fields, one course! Computer Science + Mathematics + Applications
+
+This class uses revolutionary programmable interactivity to combine material from three fields creating an engaging, efficient learning solution to prepare students to be sophisticated and intuitive thinkers, programmers, and solution providers for the modern interconnected online world.
+
+Upon completion, students are well trained to be scientific “trilinguals,” seeing and experimenting with mathematics interactively as math is meant to be seen, and ready to participate and contribute to open source development of large projects and ecosystems
 
 Topics include:
 
