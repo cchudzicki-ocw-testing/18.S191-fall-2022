@@ -3,7 +3,7 @@ content_type: page
 description: Course meeting times, prerequisites, course description, format, requirements,
   and grading
 draft: false
-title: SYLLABUS
+title: Syllabus
 uid: 6fe7b50b-8d5d-460d-a8b6-ca0862b37619
 ---
 ### Course Meeting Times
@@ -13,6 +13,8 @@ Lectures: 2 sessions / week, 1 hour / session 
 ### Prerequisites
 
 There are no prerequisites.
+
+ 
 
 ### Course Description
 
