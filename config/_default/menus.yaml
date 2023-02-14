@@ -3,3 +3,7 @@ leftnav:
   name: Fall 2022 Course Site
   url: https://computationalthinking.mit.edu/Fall22/
   weight: 10
+- identifier: 6fe7b50b-8d5d-460d-a8b6-ca0862b37619
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 20
