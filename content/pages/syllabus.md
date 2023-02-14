@@ -16,7 +16,7 @@ There are no prerequisites.
 
 ### Course Description
 
-Three fields, one course! Computer Science + Mathematics + Applications
+Three fields, one course: Computer Science + Mathematics + Applications
 
 This class uses revolutionary programmable interactivity to combine material from three fields creating an engaging, efficient learning solution to prepare students to be sophisticated and intuitive thinkers, programmers, and solution providers for the modern interconnected online world.
 
@@ -24,16 +24,11 @@ Upon completion, students are well trained to be scientific “trilinguals,” s
 
 Topics include:
 
-- Image analysis
-- Particle dynamics and ray tracing
-- Epidemic propagation
-- Climate modeling
+- Images, Transformations, Abstractions
+- Social Science and Data Science
+- Climate Science
 
-A previous [half-semester version of this course](https://ocw.mit.edu/courses/18-s190-introduction-to-computational-thinking-with-julia-with-applications-to-modeling-the-covid-19-pandemic-spring-2020) focused on the application of computational thinking to the Covid-19 pandemic.
-
-### Teaching Team
-
-Meet the instructors for the course in [the video](https://www.youtube.com/watch?v=vxjRWtWoD_w).
+Previous versions of this course, with various applications, were taught in [Fall 2019](https://github.com/dpsanders/6.S083_fall_2019/tree/fall_2019), [Spring 2020](https://ocw.mit.edu/courses/mathematics/18-s190-introduction-to-computational-thinking-with-julia-with-applications-to-modeling-the-covid-19-pandemic-spring-2020/), [Fall 2020](https://computationalthinking.mit.edu/Fall20/), and [Spring 2021](https://computationalthinking.mit.edu/Spring21/).
 
 ### Format
 
