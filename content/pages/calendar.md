@@ -1,6 +1,6 @@
 ---
 content_type: page
-description: Topics for each module
+description: Topics for each module in the course and timing of homework assignments
 draft: false
 title: Calendar
 uid: 437fb2b8-60dd-4573-8764-e1c5b0be9e33
