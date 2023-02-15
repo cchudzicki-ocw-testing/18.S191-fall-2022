@@ -32,7 +32,7 @@ Previous versions of this course, with various applications, were taught in [Fal
 
 ### Format
 
-**???** Tuesday sessions consist of prerecorded video lectures, released on YouTube and played live on the course website. Thursday sessions consist of a half-hour prerecorded video lecture followed by a half-hour online discussion. **???**
+**?Need more detail?** Tuesday sessions consist of prerecorded video lectures, released on YouTube and played live on the course website. Thursday sessions consist of a half-hour prerecorded video lecture followed by a half-hour online discussion. 
 
 ### Technical Requirements
 
